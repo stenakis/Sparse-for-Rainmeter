@@ -21,4 +21,4 @@ Divider=300
 ALocation=[MeasureCity]
 API=33e27fb8220bb244bd002e14c0456a4a
 Offset=40
-Version=22.07.12
+Version=22.07.13
