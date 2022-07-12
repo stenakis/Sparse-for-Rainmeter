@@ -16,13 +16,14 @@ MouseLeaveAction=[!HideMeter ObjectXButton][!Update][!Redraw]
 [BigTextProperties]
 FontFace=#Font#
 FontSize=80
-FontColor=#Accent#
+FontColor=[AutomaticColor]
 StringAlign=Left
 AntiAlias=1
 X=280
 Y=-15
 InlineSetting=CharacterSpacing | 1 | 1
 InlineSetting2=GradientColor | -90 | #Accent#,255 ; 0.0 | #Accent#,200 ; 0.8 | #Accent#,50 ; 1.0
+DynamicVariables=1
 
 [IconsStyle]
 W=20
@@ -47,6 +48,7 @@ AntiAlias=1
 InlineSetting=CharacterSpacing | 0.2 | 0.2
 X=280
 StringAlign=Left
+DynamicVariables=1
 
 [DescriptionStyle]
 FontSize=13
