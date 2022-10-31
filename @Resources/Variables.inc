@@ -1,0 +1,23 @@
+[Variables]
+Language=en-US
+CMode=36,36,36
+OMode=255,255,255 
+Mode=1
+Accent=0
+MainFont=Google Sans
+Font=Summer Loving
+BoldFont=Google Sans
+AudioPlayerName=Spotify
+MusicPlugin=NowPlaying.dll
+DayF=%A
+HF=%H
+DF=%B
+Mult=1.5
+Latitude=[MeasureLat]
+Longitude=23.6470593
+Location=Aegina
+Divider=300
+ALocation=?????a
+API=33e27fb8220bb244bd002e14c0456a4a
+Offset=40
+Color=134,174,174
