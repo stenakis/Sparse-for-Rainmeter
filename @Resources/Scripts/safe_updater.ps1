@@ -1,4 +1,4 @@
-$source = 'https://github.com/ervans589/Sparse-for-Rainmeter/archive/refs/heads/main.zip'
+$source = 'https://github.com/SafehouseCT/Sparse-for-Rainmeter/archive/refs/heads/main.zip'
 $destination = $env:TEMP
 Write-Output ''
 Write-Output 'Safe Installer 1.2'
